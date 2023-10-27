@@ -1,1 +1,1 @@
-# Shakyy
+# Machine learning and visualization 
